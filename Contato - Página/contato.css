@@ -1,0 +1,22 @@
+.custom-bg{
+    background-color: #23dee4;
+}
+
+.titulo{
+    text-align: center;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+}
+
+form{
+    padding: 90px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 30px;
+}

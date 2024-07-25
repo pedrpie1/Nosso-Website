@@ -1,0 +1,83 @@
+body{
+    color: rgb(210, 103, 37);
+    font-weight: bold;
+}
+
+.custom-bg{
+    background-color: #23dee4;
+}
+
+.titulo{
+    text-align: center;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+}
+
+#gus{
+    text-align: center;
+    background-color: blue;
+    width: 400px;
+    margin: auto;
+    border-radius: 6px;
+    color: orange;
+}
+
+#ped{
+    text-align: center;
+    background-color: rgb(90, 64, 224);
+    width: 400px;
+    margin: auto;
+    border-radius: 6px;
+    color: orange;
+}
+
+li{
+    text-align: center;
+    list-style-type: none;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 400px;
+    border-radius: 10px;
+}
+
+.containere{
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(67, 180, 32);
+    width: 300px;
+    height: 270px;
+    padding-left: 10px;
+    padding-top: 3px;
+    border-radius: 5px;
+}
+
+#alunos{
+    color: rgb(255, 255, 255);
+}
+
+#projetos{
+    color: rgb(255, 255, 255);
+}
+
+#modal{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    margin-top: 10px;
+}

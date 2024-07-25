@@ -1,0 +1,53 @@
+.all{
+    background-color: #23dee4;
+}
+
+.aboutus{
+    margin-left: 10px;
+}
+
+.quem_somos{
+    margin-left: 10px;
+    color: rgb(21, 118, 197);
+
+}
+
+.conteudo{
+    display: flex;
+}
+
+.titulo{
+    text-align: center;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+}
+
+.paragrafo{
+    margin-left: 10px;
+}
+
+.nerd_img{
+    margin-left: 180px;
+    margin-right: 180px;
+    position: absolute;
+    bottom: 300px;
+    left: 500px;
+    top: 150px;
+    width: 350px;
+}
+
+.titulo_gostos{
+    margin-left: 10px;
+    color: rgb(21, 118, 197);
+
+}
+
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    margin-top: 10px;
+}
